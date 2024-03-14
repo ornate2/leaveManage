@@ -27,6 +27,30 @@
       "scope-references": [
         "uaa.user"
       ]
+    },
+    {
+      "name": "Employee",
+      "description": "generated",
+      "scope-references": [
+        "$XSAPPNAME.Employee"
+      ],
+      "attribute-references": []
+    },
+    {
+      "name": "Manager",
+      "description": "generated",
+      "scope-references": [
+        "$XSAPPNAME.Manager"
+      ],
+      "attribute-references": []
+    },
+    {
+      "name": "HR",
+      "description": "generated",
+      "scope-references": [
+        "$XSAPPNAME.HR"
+      ],
+      "attribute-references": []
     }
   ],
   "attributes": []
